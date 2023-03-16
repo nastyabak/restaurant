@@ -1,1 +1,2 @@
-Сайт на html+css, адаптивная верстка
+Сайт на html+css, применена адаптивная верстка
+Ссылка: nastyabak.github.io/restaurant/
